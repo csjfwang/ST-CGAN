@@ -1,8 +1,9 @@
 
 Stacked Conditional Generative Adversarial Networks for Jointly Learning Shadow Detection and Shadow Removal
 ========
-by Jifeng Wang, Xiang Li and Jian Yang  
-DeepInsight@PCALab, Nanjing University of Science and Technology.
+[[Arxiv](https://arxiv.org/abs/1712.02478)]  
+by Jifeng Wang, Xiang Li and Jian Yang 
+DeepInsight@PCALab, Nanjing University of Science and Technology.  
 
 ****
 ## Citation
