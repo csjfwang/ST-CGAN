@@ -16,6 +16,7 @@ DeepInsight@PCALab, Nanjing University of Science and Technology.
 ISTD dataset is available in [Google Drive](https://drive.google.com/file/d/1I0qw-65KBA6np8vIZzO6oeiOvcDBttAY/view)
 
 ## License
+Copyright (c) 2018, Jifeng Wang All rights reserved.  
 The ISTD Dataset can only be used for research and ___Non-Commercial___ purposes.
 
 
